@@ -13,7 +13,7 @@
 
 ### `def about_me`
 
-- 🏗️ Software architect & full-stack developer with **10+ years** building and maintaining production systems
+- 🏗️ Software architect & full-stack developer with **10 years** building and maintaining production systems
 - 👥 Grew from developer to team lead and technical interviewer, hiring and mentoring Rails & React teams
 - ⚙️ I like agile teams, Infrastructure as Code, and automating anything I have to do twice
 - 🔭 Currently exploring **AI/ML in production**, event-driven architectures (RabbitMQ, MQTT) and **IoT**
